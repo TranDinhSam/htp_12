@@ -1,3 +1,4 @@
 day la file merge
 phan nay la noi dung chung
-//phan nay la them tu nhanh br1
+//day la noi dung them tu nhanh br2
+//dung co xoa noi dung nay nha bro
